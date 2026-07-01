@@ -1,3 +1,8 @@
+---
+layout: default
+title: "SpeechAngel Privacy Policy"
+---
+
 # SpeechAngel Support
 
 Thank you for using SpeechAngel, your private, on-device presentation coach. We are committed to providing you with the best possible experience.
