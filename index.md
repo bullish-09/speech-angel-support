@@ -1,3 +1,8 @@
+---
+layout: default
+title: "About SpeechAngel"
+---
+
 # SpeechAngel
 
 **Your Private, On-Device Presentation Coach & Teleprompter**
