@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "SpeechAngel Privacy Policy"
+title: "SpeechAngel Support"
 ---
 
 # SpeechAngel Support
