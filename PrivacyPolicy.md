@@ -1,3 +1,8 @@
+---
+layout: default
+title: "SpeechAngel Privacy Policy"
+---
+
 # SpeechAngel Privacy Policy
 
 **Effective Date:** June 10, 2026
